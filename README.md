@@ -9,7 +9,8 @@ CrossPlatformApp is a versatile, user-friendly application designed to run seaml
 
 - **Cross-Platform Support**: Works flawlessly on Windows, macOS, Linux, iOS, and Android.
 - **Fast & Responsive**: Optimized for performance on all devices.
-- **Modern UI**: Sleek, intuitive user interface designed for simplicity.
+- **Modern UI**: Sleek, intuitive user interface designed for [simplicity](https://www[dot]example[dot]com)
+.
 - **Offline Mode**: Continue using the app without an internet connection.
 - **Push Notifications**: Stay connected and informed across all devices.
 - **Customizable Settings**: Tailor the app to your needs with a wide range of options.
